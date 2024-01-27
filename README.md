@@ -1,15 +1,14 @@
 # IMDB Top 1000 movies PowerBI Dashboard
-<b>video demonstration</b><br>
-![](https://github.com/iqbal1526/IMDB-Movies-PowerBi-Dashboard/blob/main/Screenshot%20and%20gif/demonstration.gif)
+ 
+![](https://github.com/baynazoglu/POWER-BI-IMDB-MOVIES-DASHBOARD/blob/main/demonstration.gif)
 <br>
 
-<b>screenshot</b><br>
-<img src="/Screenshot and gif/Screenshot.png" alt="Image Description" width="600" height="400">
+ 
+<img src="https://github.com/baynazoglu/POWER-BI-IMDB-MOVIES-DASHBOARD/blob/main/Screenshot.png" alt="Image Description" width="600" height="400">
 
 ## Introduction
 
-This Power BI dashboard aims to provide comprehensive insights into the Top 1000 Movies in IMDB. It contains various visualizations that allow users to understand key information related to the movies, their ratings, and their genre.<br>
-<b> The dataset is obtained from Kaggle: [https://shorturl.at/lAN57](https://shorturl.at/eEGKY) </b>
+This Power BI dashboard aims to provide comprehensive insights into the Top 1000 Movies in IMDB. It contains various visualizations that allow users to understand key information related to the movies, their ratings, and their genre.
 
 ## Project Insights
 
@@ -31,4 +30,4 @@ To access and interact with this Power BI dashboard, you need:
 
 2. Download the report file from this repository and open it on the PowerBI desktop.
 
-Feel free to explore the charts, filter data based on your requirements, and gain valuable insights from this dashboard.
+
